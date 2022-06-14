@@ -45,6 +45,7 @@ body {
     padding: 10px;
     word-wrap: break-word;
     word-break: break-all;
+   broder-radius:10px 10px 0px 0px;
 }
 .output .previous-operand{
     color: rgba(255, 255, 255, .75);
